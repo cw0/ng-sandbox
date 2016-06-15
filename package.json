@@ -1,0 +1,19 @@
+{
+  "name": "ng-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox application for learning angular 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cw0/ng-sandbox.git"
+  },
+  "author": "cw0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cw0/ng-sandbox/issues"
+  },
+  "homepage": "https://github.com/cw0/ng-sandbox#readme"
+}
